@@ -14,10 +14,6 @@
 	<name>spring-boot-gck</name>
 	<description>Spring Boot demo project for Google Cloud Kubernetes</description>
 
-	<properties>
-		<java.version>11</java.version>
-	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
